@@ -1,0 +1,612 @@
+Script started on 2018-08-13 17:11:23+05:30
+]777;notify;Command completed;exit]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ ^C
+]777;notify;Command completed;exit]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ [K[user@CR17061 2018201057_lab1]$ p[Ktouvch[K[K[Kch answers.txt
+]777;notify;Command completed;touch answers.txt]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ touch answers.txtexit[Kping google.comsu -[Kpoweroffsudo su - -[Kifconfig[4Psu -[K[K[K[Kgedit s[Kanswers.txt 
+]777;notify;Command completed;gedit answers.txt ]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ pwd
+/home/user/Desktop/2018201057_lab1
+]777;notify;Command completed;pwd]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ echo $home
+
+]777;notify;Command completed;echo $home]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ e[Kecho $home[K[K[K[KHO
+$HOME      $HOSTNAME  $HOSTTYPE  
+[user@CR17061 2018201057_lab1]$ echo $HO[K[Kho[K[Khome[K[K[K[KHOME
+/home/user
+]777;notify;Command completed;echo $HOME]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ touvh[K[Kch F[KGA[Kaitone[Kde.txt
+]777;notify;Command completed;touch Gaitonde.txt]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cate[K Gaitonde.txt 
+]777;notify;Command completed;cat Gaitonde.txt ]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cat >Gaitonde.txt 
+Created by Vikram]777;notify;Command completed;cat >Gaitonde.txt ]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ mkdir Bhagwan
+]777;notify;Command completed;mkdir Bhagwan]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cd Bhagwan/
+]777;notify;Command completed;cd Bhagwan/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ ls
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ toy[Kuch fil1[Ke.txt file2.txt f[Kfile3.txt
+]777;notify;Command completed;touch file.txt file2.txt file3.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ ls
+file2.txt  file3.txt  file.txt
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ ls -l
+total 0
+-rw-rw-r--. 1 user user 0 Aug 13 17:34 file2.txt
+-rw-rw-r--. 1 user user 0 Aug 13 17:34 file3.txt
+-rw-rw-r--. 1 user user 0 Aug 13 17:34 file.txt
+]777;notify;Command completed;ls -l]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ chmod u[Kf[K777 file.txt
+]777;notify;Command completed;chmod 777 file.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ chmod 777 file.txt[C2.txt[C[1P file2.txt[1P file2.txt[1P file2.txt1 file2.txt1 file2.txt1 file2.txt[C[C[C[C[C[C[C[C[C[C
+]777;notify;Command completed;chmod 111 file2.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ more g[Kfile2.txt
+more: cannot open file2.txt: Permission denied
+]777;notify;Command completed;more file2.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ sh file3.yt[K~[K[Ktxt
+]777;notify;Command completed;sh file3.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ sh file2.txt
+sh: file2.txt: Permission denied
+]777;notify;Command completed;sh file2.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ mkdir sew[Ktting[K[K[K[K[K[K[K[K[K[K[K[K[Kmkdir swtt[K[K[K[Ksetting[1PettingSetting[C[C[C[C[C[C
+]777;notify;Command completed;mkdir Setting]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ cat k[KKukk[Koo.txt Mandir.[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd Swetting[K[K[K[K[K[K[Ketting
+]777;notify;Command completed;cd Setting]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ caa[Kt Kukoo.txt Mandir.txt
+cat: Kukoo.txt: No such file or directory
+cat: Mandir.txt: No such file or directory
+]777;notify;Command completed;cat Kukoo.txt Mandir.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ touvh[K[Kch Kukioo[K[K[Koo.txt Mandir.txt
+]777;notify;Command completed;touch Kukoo.txt Mandir.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cat >Kukoo.txt 
+Apun kukoo ke peechhe bhag raha ta]777;notify;Command completed;cat >Kukoo.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cat >Kukoo.txt touch Kukoo.txt Mandir.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat >Kukoo.txt [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+
+Script done on 2018-08-13 17:56:23+05:30
+Script started on 2018-08-13 17:56:39+05:30
+]777;notify;Command completed;cat >Kukoo.txt ]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cat >Mand[K[K[K[K[K[K[K[K[Kls
+2018201057_lab1.script  answers.txt  [0m[38;5;33mBhagwan[0m  Gaitonde.txt
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cd Ba[Khagwan/
+]777;notify;Command completed;cd Bhagwan/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ cd[K[Kls[K[Kls
+[0m[38;5;40mfile2.txt[0m  file3.txt  [38;5;40mfile.txt[0m  [38;5;33mSetting[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ cd Setting/
+]777;notify;Command completed;cd Setting/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cat >Mna[K[Kandir.txt 
+Desh mandir
+ke peechhe bhag raha ta]777;notify;Command completed;cat >Mandir.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ man [K[K[K[Kcat Kukoo.txt >>By Ganesh Gaitonde
+cat: Ganesh: No such file or directory
+cat: Gaitonde: No such file or directory
+]777;notify;Command completed;cat Kukoo.txt >>By Ganesh Gaitonde]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cat Kukoo.txt >>By Ganesh Gaitonde[C[C[C[C[1P[1P[C[C[1@>[1@>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+By Ganesh Gaitons de]777;notify;Command completed;cat >>Kukoo.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ miore[K[K[K[Kore Kukoo.txt 
+Apun kukoo ke peechhe bhag raha taBy Ganesh Gaitonde
+]777;notify;Command completed;more Kukoo.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ more Kukoo.txt Mandir.txt 
+::::::::::::::
+Kukoo.txt
+::::::::::::::
+Apun kukoo ke peechhe bhag raha taBy Ganesh Gaitonde
+[7m--More--(Next file: Mandir.txt)[27m[K]777;notify;Command completed;more Kukoo.txt Mandir.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cat Kukoo.txt Mandir.txt 
+Apun kukoo ke peechhe bhag raha taBy Ganesh GaitondeDesh mandir
+ke peechhe bhag raha ta]777;notify;Command completed;cat Kukoo.txt Mandir.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ more Mandir.txt 
+Desh mandir
+ke peechhe bhag raha ta
+]777;notify;Command completed;more Mandir.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ more Mandir.txt [9@cat Kukoo.txt[C[C[C[C[C[C[C[C[C[C[C[C[1@more[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kcat >>Kukoo.txtKukoo.txt >>By Ganesh Gaitonde[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18P>Mandir.txt [5Pd Setting/ls[Kcd Bhagwan/ls[Kcat >Kukoo.txt touch Kukoo.txt Mandir.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[2Pcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pd Setting[3@mkdir[C[C[C[C[C[C[C[C[1Psh file2.txt3.txtmore file2.txt[5@chmod 111[C[C[C[C[C[C[C[C[C[C[1P777 file.txtls -l[K[Ktouch file.txt file2.txt file3.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd Bhagwan/mkdir Bhagwancat >Gaitonde.txt [1P[C[C[C[C[C[C[C[C[C[C[C[C[C[1@>[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[Ctouch Gaitonde.txt[8Pecho $HOMEhomepwd[Kgedit answers.txt [1Ptouch answers.txtexit[Kping google.comsu -[Kping google.comexit[Ktouch answers.txtgedit answers.txt pwd[Kecho $homeHOMEhomepwd[Kgedit answers.txt [1Ptouch answers.txtexit[Kping google.comsu -[Kpoweroffsudo su - -[Kifconfig[4Psu -exitsu -do su - -[Kdo su -[1Pifconfig[4Pexitssh root@10.4.31.204u -[Kexitssh root@10.4.31.204reboot[K[1Pclearifconfig[4Pexitsu -clear[1Psu -do su -[5Pexitsudo su -[4Pclear[1Pexitsudo su -[5Pexitsudo su -[5Pexitsudo su -[4Pclearsudo su -\sh root@10.4.31.204[1P3.1.155clear[Ksudo su -- [5Pexitifconfigsudo su -[4Pclearsudo su -rdesktop 10.4.17.155[4Pping[C[C[C[C[C[C[C[C[C[C[C[Cclear[Ksudo su -[4Pclear[1Pexitsudo su -[K[4Pexitsudo su -[K -[K[1Pexit[1Ppwdcd ..sudo -p[K[1P -do su -[2Ppasswd sudo su -[2Ppasswd sudo su - -[Kdo -p[2Pcd ..[2Ppwdexitsudo su -[K -[5Pexitsudo su -[5Pexitclearsudo su -[4Pclearping 10.4.17.155[4@rdesktop[C[C[C[C[C[C[C[C[C[C[C[C[11Psudo su -[4Pclearsudo su -[1Pifconfig[4Pexitsudo su-  -[4Pclearssh root@10.3.1.1554.31.204[10Pudo su -\[K[4Pclearsudo su -[5Pexitsudo su -[5Pexitsudo su -[5Pexitclearsudo su -[5Pexitsudo su - -[Kclear[1Psu -exitifconfig[3Pclearrebootssh root@10.4.31.204exit[Ksu -sh root@10.4.31.204exit[Kifconfigsudo su - -[Kdo su - -[Kexitsu -ifconfig[4Psu -do su -[1Ppoweroff[4Psu -ping google.comexit[Ktouch answers.txtgedit answers.txt pwd[Kecho $homeHOMEtouch Gaitonde.txt[1Pcat Gaitonde.txt [1@>[C[C[C[C[C[C[C[C[C[C[C[C[C[5Pmkdir Bhagwan[2Pcd Bhagwan/ls[Ktouch file.txt file2.txt file3.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K -lchmod 777 file.txt111 file2.txt[5Pmore[C[C[C[C[C[C[C[C[C[C[2Psh file3.txt2.txtmkdir Setting[3Pcd[C[C[C[C[C[C[C[Cat Kukoo.txt Mandir.txt[2@touch[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pcat >Kukoo.txt ls[Kcd Bhagwan/ls[Kcd Setting/at >Mandir.txt Kukoo.txt >>By Ganesh Gaitonde[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19P>>Kukoo.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ktouch .Anjali_Mathur.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmkdir [K[K[K[K[K[Kcd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ cd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ mkdir Kachra
+]777;notify;Command completed;mkdir Kachra]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cd [K[K[Kls
+2018201057_lab1.script  answers.txt  [0m[38;5;33mBhagwan[0m  Gaitonde.txt  [38;5;33mKachra[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cd Bha`
+> bash: unexpected EOF while looking for matching ``'
+bash: syntax error: unexpected end of file
+]777;notify;Command completed;cd Bha`]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cd Bhagwan/
+]777;notify;Command completed;cd Bhagwan/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ cd Setting/
+]777;notify;Command completed;cd Setting/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+By  Kukoo.txt  Mandir.txt
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ rm By 
+]777;notify;Command completed;rm By ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ touch .Anjalo[Ki_Mathur.txt
+]777;notify;Command completed;touch .Anjali_Mathur.txt]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cat >>.Anjali_Mathur.txt 
+Agar mard field pe kaam karna chahe toh passion. Aur agar aurat karna chahe toh
+bhoot.]777;notify;Command completed;cat >>.Anjali_Mathur.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ chmod 444 .Anjali_Mathur.txt 
+]777;notify;Command completed;chmod 444 .Anjali_Mathur.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cat >Mandir.txt 
+Apun socha jab desh mein PM ka imaan nahi, toh apun seedhe raaste chal ke kya Karega?]777;notify;Command completed;cat >Mandir.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cat Mandir.txt 
+Apun socha jab desh mein PM ka imaan nahi, toh apun seedhe raaste chal ke kya Karega?]777;notify;Command completed;cat Mandir.txt ]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ man[Kn mkdir
+[?1049h[22;0;0t[?1h=MKDIR(1)                      User Commands                     MKDIR(1)[m
+[m
+[1mNAME[0m[m
+       mkdir - make directories[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mmkdir [22m[[4mOPTION[24m]... [4mDIRECTORY[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       Create the DIRECTORY(ies), if they do not already exist.[m
+[m
+       Mandatory  arguments  to  long  options  are  mandatory for short[m
+       options too.[m
+[m
+       [1m-m[22m, [1m--mode[22m=[4mMODE[0m[m
+              set file mode (as in chmod), not a=rwx - umask[m
+[m
+       [1m-p[22m, [1m--parents[0m[m
+              no error if existing, make parent directories as needed[m
+[m
+       [1m-v[22m, [1m--verbose[0m[m
+              print a message for each created directory[m
+[m
+       [1m-Z     [22mset SELinux security context of each created directory  to[m
+              the default type[m
+[m
+       [1m--context[22m[=[4mCTX[24m][m
+              like  [1m-Z[22m,  or  if CTX is specified then set the SELinux or[m
+              SMACK security context to CTX[m
+[m
+       [1m--help [22mdisplay this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+[1mAUTHOR[0m[m
+[7m Manual page mkdir(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Written by David MacKenzie.[m
+[7m Manual page mkdir(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mREPORTING BUGS[0m[m
+[7m Manual page mkdir(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       GNU coreutils  online  help:  <https://www.gnu.org/software/core‐[m
+[7m Manual page mkdir(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       utils/>[m
+[7m Manual page mkdir(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Report   mkdir   translation   bugs  to  <https://translationpro‐[m
+[7m Manual page mkdir(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ject.org/team/>[m
+[7m Manual page mkdir(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOPYRIGHT[0m[m
+[7m Manual page mkdir(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Copyright © 2017 Free Software Foundation, Inc.  License  GPLv3+:[m
+[7m Manual page mkdir(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.[m
+[7m Manual page mkdir(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This  is  free  software: you are free to change and redistribute[m
+[7m Manual page mkdir(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page mkdir(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE ALSO[0m[m
+[7m Manual page mkdir(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       mkdir(2)[m
+[7m Manual page mkdir(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full   documentation   at:    <https://www.gnu.org/software/core‐[m
+[7m Manual page mkdir(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       utils/mkdir>[m
+[7m Manual page mkdir(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       or available locally via: info '(coreutils) mkdir invocation'[m
+[7m Manual page mkdir(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[KGNU coreutils 8.29            December 2017                     MKDIR(1)[m
+[7m Manual page mkdir(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              print a message for each created directory[m
+[37;1H[K[7m Manual page mkdir(1) line 22/58 96% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-v[22m, [1m--verbose[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 21/58 96% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 20/58 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              no error if existing, make parent directories as needed[m
+[37;1H[K[7m Manual page mkdir(1) line 19/58 92% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-p[22m, [1m--parents[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 18/58 88% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 17/58 88% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              set file mode (as in chmod), not a=rwx - umask[m
+[37;1H[K[7m Manual page mkdir(1) line 16/58 87% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-m[22m, [1m--mode[22m=[4mMODE[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 15/58 86% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 14/58 86% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       options too.[m
+[37;1H[K[7m Manual page mkdir(1) line 13/58 83% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Mandatory  arguments  to  long  options  are  mandatory for short[m
+[37;1H[K[7m Manual page mkdir(1) line 12/58 79% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 11/58 75% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Create the DIRECTORY(ies), if they do not already exist.[m
+[37;1H[K[7m Manual page mkdir(1) line 10/58 71% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 9/58 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 8/58 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mmkdir [22m[[4mOPTION[24m]... [4mDIRECTORY[24m...[m
+[37;1H[K[7m Manual page mkdir(1) line 7/58 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 6/58 65% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 5/58 65% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       mkdir - make directories[m
+[37;1H[K[7m Manual page mkdir(1) line 4/58 61% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 3/58 60% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 2/58 59% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HMMKDIR(1)                      User Commands                     MKDIR(1)[m
+[37;1H[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1/58 58% (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]777;notify;Command completed;man mkdir]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ mkdir ./Scrit[KptingGames/Pari[Kulkar/Zoya ./ScriptingGa mes/Trivedi ./ScriptingGames/Sartjav^?[K[K[K[Kaj/Megha ./Scriptiion[K[K[KngGames/GaneshGaitonde/ Cuckoo
+mkdir: cannot create directory ‘./ScriptingGames/Parulkar/Zoya’: No such file or directory
+mkdir: cannot create directory ‘./ScriptingGames/Trivedi’: No such file or directory
+mkdir: cannot create directory ‘./ScriptingGames/Sartaj/Megha’: No such file or directory
+mkdir: cannot create directory ‘./ScriptingGames/GaneshGaitonde/Cuckoo’: No such file or directory
+]777;notify;Command completed;mkdir ./ScriptingGames/Parulkar/Zoya ./ScriptingGames/Trivedi ./ScriptingGames/Sartaj/Megha ./ScriptingGames/GaneshGaitonde/Cuckoo]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ mkdir ./S[K[K[K[K[K[K[K[K[Kman dir[K[K[Kmkdir
+[?1049h[22;0;0t[?1h=MKDIR(1)                      User Commands                     MKDIR(1)[m
+[m
+[1mNAME[0m[m
+       mkdir - make directories[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mmkdir [22m[[4mOPTION[24m]... [4mDIRECTORY[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       Create the DIRECTORY(ies), if they do not already exist.[m
+[m
+       Mandatory  arguments  to  long  options  are  mandatory for short[m
+       options too.[m
+[m
+       [1m-m[22m, [1m--mode[22m=[4mMODE[0m[m
+              set file mode (as in chmod), not a=rwx - umask[m
+[m
+       [1m-p[22m, [1m--parents[0m[m
+              no error if existing, make parent directories as needed[m
+[m
+       [1m-v[22m, [1m--verbose[0m[m
+              print a message for each created directory[m
+[m
+       [1m-Z     [22mset SELinux security context of each created directory  to[m
+              the default type[m
+[m
+       [1m--context[22m[=[4mCTX[24m][m
+              like  [1m-Z[22m,  or  if CTX is specified then set the SELinux or[m
+              SMACK security context to CTX[m
+[m
+       [1m--help [22mdisplay this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+[1mAUTHOR[0m[m
+[7m Manual page mkdir(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[K[7m Manual page mkdir(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Written by David MacKenzie.[m
+[7m Manual page mkdir(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mREPORTING BUGS[0m[m
+[7m Manual page mkdir(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       GNU coreutils  online  help:  <https://www.gnu.org/software/core‐[m
+[7m Manual page mkdir(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       utils/>[m
+[7m Manual page mkdir(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Report   mkdir   translation   bugs  to  <https://translationpro‐[m
+[7m Manual page mkdir(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ject.org/team/>[m
+[7m Manual page mkdir(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOPYRIGHT[0m[m
+[7m Manual page mkdir(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Copyright © 2017 Free Software Foundation, Inc.  License  GPLv3+:[m
+[7m Manual page mkdir(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.[m
+[7m Manual page mkdir(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This  is  free  software: you are free to change and redistribute[m
+[7m Manual page mkdir(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page mkdir(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE ALSO[0m[m
+[7m Manual page mkdir(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       mkdir(2)[m
+[7m Manual page mkdir(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full   documentation   at:    <https://www.gnu.org/software/core‐[m
+[7m Manual page mkdir(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       utils/mkdir>[m
+[7m Manual page mkdir(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       or available locally via: info '(coreutils) mkdir invocation'[m
+[7m Manual page mkdir(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page mkdir(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[KGNU coreutils 8.29            December 2017                     MKDIR(1)[m
+[7m Manual page mkdir(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page mkdir(1) line 23/58 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              print a message for each created directory[m
+[37;1H[K[7m Manual page mkdir(1) line 22/58 96% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-v[22m, [1m--verbose[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 21/58 96% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 20/58 93% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              no error if existing, make parent directories as needed[m
+[37;1H[K[7m Manual page mkdir(1) line 19/58 92% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-p[22m, [1m--parents[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 18/58 88% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 17/58 88% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              set file mode (as in chmod), not a=rwx - umask[m
+[37;1H[K[7m Manual page mkdir(1) line 16/58 87% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-m[22m, [1m--mode[22m=[4mMODE[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 15/58 86% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 14/58 86% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       options too.[m
+[37;1H[K[7m Manual page mkdir(1) line 13/58 83% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Mandatory  arguments  to  long  options  are  mandatory for short[m
+[37;1H[K[7m Manual page mkdir(1) line 12/58 79% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 11/58 75% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Create the DIRECTORY(ies), if they do not already exist.[m
+[37;1H[K[7m Manual page mkdir(1) line 10/58 71% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 9/58 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 8/58 70% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mmkdir [22m[[4mOPTION[24m]... [4mDIRECTORY[24m...[m
+[37;1H[K[7m Manual page mkdir(1) line 7/58 69% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 6/58 65% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page mkdir(1) line 5/58 65% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       mkdir - make directories[m
+[37;1H[K[7m Manual page mkdir(1) line 4/58 61% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mNAME[0m[m
+[37;1H[K[7m Manual page mkdir(1) line 3/58 60% (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]777;notify;Command completed;man mkdir]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ mkdir --help
+Usage: mkdir [OPTION]... DIRECTORY...
+Create the DIRECTORY(ies), if they do not already exist.
+
+Mandatory arguments to long options are mandatory for short options too.
+  -m, --mode=MODE   set file mode (as in chmod), not a=rwx - umask
+  -p, --parents     no error if existing, make parent directories as needed
+  -v, --verbose     print a message for each created directory
+  -Z                   set SELinux security context of each created directory
+                         to the default type
+      --context[=CTX]  like -Z, or if CTX is specified then set the SELinux
+                         or SMACK security context to CTX
+      --help     display this help and exit
+      --version  output version information and exit
+
+GNU coreutils online help: <https://www.gnu.org/software/coreutils/>
+Full documentation at: <https://www.gnu.org/software/coreutils/mkdir>
+or available locally via: info '(coreutils) mkdir invocation'
+]777;notify;Command completed;mkdir --help]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ [H[2J[user@CR17061 Setting]$ mkdir -p ./ScriptingGames?parulkar/Zoya ./Scripot[K[Ktin gGa[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn gGames/Trivedi ./Srcitp[K[K[K[K[KcriptingGames/Sartaj?megha ./ScriptingGammr[K[Kes>[K?GaneshGaiton de/Cuckoo
+]777;notify;Command completed;mkdir -p ./ScriptingGames?parulkar/Zoya ./ScriptingGames/Trivedi ./ScriptingGames/Sartaj?megha ./ScriptingGames?GaneshGaitonde/Cuckoo]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+ Kukoo.txt    [0m[38;5;33mScriptingGames[0m                  [38;5;33m'ScriptingGames?parulkar'[0m
+ Mandir.txt  [38;5;33m'ScriptingGames?GaneshGaitonde'[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ lsmkdir -p ./ScriptingGames?parulkar/Zoya ./ScriptinggGames/Trivedi ./ScriptingGames/Sartaj?megha ./ScriptingGames?GaneshGaitondde/Cuckoo[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CGaneshGaitonde[1P/Cuckoo[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/GaneshGaitonde/Cuckoo[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cmegha ./ScriptingGames/GaneshGaitonde[1P/Cuckoo[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/megha ./ScriptingGames/GaneshGaitonde/Cuckoo[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C-help[K
+[K
+[K[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp ./ScriptingGames?parulkar/Zoya ./ScriptinggGames/Trivedi ./ScriptingGames/Sartaj/megha ./ScriptingGames/GaneshGaitondde/Cuckoo[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cparulkar/Zoya ./ScriptingGames/Trivedi ./ScriptingGames/Sartaj/megha ./ScriptingGames/GaneshGaitonde[1P/Cuckoo[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\parulkar/Zoya ./ScriptingGames/Trivedi ./ScriptingGames/Sartaj/megha ./ScriptingGames/GaneshGaitonde/Cuckoo[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cparulkar/Zoya ./ScriptingGames/Trivedi ./ScriptingGames/Sartaj/megha ./ScriptingGames/GaneshGaitonde[1P/Cuckoo[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/parulkar/Zoya ./ScriptingGames/Trivedi ./ScriptingGames/Sartaj/megha ./ScriptingGames/GaneshGaitonde/Cuckoo[A[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+
+]777;notify;Command completed;mkdir -p ./ScriptingGames/parulkar/Zoya ./ScriptingGames/Trivedi ./ScriptingGames/Sartaj/megha ./ScriptingGames/GaneshGaitonde/Cuckoo]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+ Kukoo.txt    [0m[38;5;33mScriptingGames[0m                  [38;5;33m'ScriptingGames?parulkar'[0m
+ Mandir.txt  [38;5;33m'ScriptingGames?GaneshGaitonde'[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ rm ScriptingGames?\?[K[K?pa\?parulkar/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+ Kukoo.txt    [0m[38;5;33mScriptingGames[0m                  [38;5;33m'ScriptingGames?parulkar'[0m
+ Mandir.txt  [38;5;33m'ScriptingGames?GaneshGaitonde'[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ScriptingGames[K[K[K[K[K[K[K[K[K[K[K[K[K[Kc[Kls ./ScriptingGames
+ [0m[38;5;33mGaneshGaitonde[0m   [38;5;33mparulkar[0m   [38;5;33mSartaj[0m  [38;5;33m'Sartaj?megha'[0m   [38;5;33mTrivedi[0m
+]777;notify;Command completed;ls ./ScriptingGames]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ rmdir ScriptingGames?\?[K[K?pari[Kyu[K[Kyl[K[Kulkar
+rmdir: failed to remove 'ScriptingGames?parulkar': Directory not empty
+]777;notify;Command completed;rmdir ScriptingGames?parulkar]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ rmdir ScriptingGames?parulkar[C ScriptingGames?parulkar- ScriptingGames?parulkarr ScriptingGames?parulkar[C ScriptingGames?parulkar
+rmdir: invalid option -- 'r'
+Try 'rmdir --help' for more information.
+]777;notify;Command completed;rmdir -r  ScriptingGames?parulkar]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ man rmdir
+[?1049h[22;0;0t[?1h=RMDIR(1)                      User Commands                     RMDIR(1)[m
+[m
+[1mNAME[0m[m
+       rmdir - remove empty directories[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mrmdir [22m[[4mOPTION[24m]... [4mDIRECTORY[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       Remove the DIRECTORY(ies), if they are empty.[m
+[m
+       [1m--ignore-fail-on-non-empty[0m[m
+[m
+              ignore each failure that is solely because a directory[m
+[m
+              is non-empty[m
+[m
+       [1m-p[22m, [1m--parents[0m[m
+              remove DIRECTORY and its ancestors; e.g., 'rmdir [1m-p [22ma/b/c'[m
+              is similar to 'rmdir a/b/c a/b a'[m
+[m
+       [1m-v[22m, [1m--verbose[0m[m
+              output a diagnostic for every directory processed[m
+[m
+       [1m--help [22mdisplay this help and exit[m
+[m
+       [1m--version[0m[m
+              output version information and exit[m
+[m
+[1mAUTHOR[0m[m
+       Written by David MacKenzie.[m
+[m
+[1mREPORTING BUGS[0m[m
+       GNU coreutils  online  help:  <https://www.gnu.org/software/core‐[m
+       utils/>[m
+       Report   rmdir   translation   bugs  to  <https://translationpro‐[m
+[7m Manual page rmdir(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ject.org/team/>[m
+[7m Manual page rmdir(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rmdir(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mCOPYRIGHT[0m[m
+[7m Manual page rmdir(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Copyright © 2017 Free Software Foundation, Inc.  License  GPLv3+:[m
+[7m Manual page rmdir(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.[m
+[7m Manual page rmdir(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This  is  free  software: you are free to change and redistribute[m
+[7m Manual page rmdir(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       it.  There is NO WARRANTY, to the extent permitted by law.[m
+[7m Manual page rmdir(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rmdir(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[1mSEE ALSO[0m[m
+[7m Manual page rmdir(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rmdir(2)[m
+[7m Manual page rmdir(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rmdir(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full   documentation   at:    <https://www.gnu.org/software/core‐[m
+[7m Manual page rmdir(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       utils/rmdir>[m
+[7m Manual page rmdir(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       or available locally via: info '(coreutils) rmdir invocation'[m
+[7m Manual page rmdir(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page rmdir(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[KGNU coreutils 8.29            December 2017                     RMDIR(1)[m
+[7m Manual page rmdir(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rmdir(1) line 17/52 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rmdir(1) line 17/52 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rmdir(1) line 17/52 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[K[7m Manual page rmdir(1) line 17/52 (END) (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              is non-empty[m
+[37;1H[K[7m Manual page rmdir(1) line 16/52 96% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page rmdir(1) line 15/52 96% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              ignore each failure that is solely because a directory[m
+[37;1H[K[7m Manual page rmdir(1) line 14/52 91% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page rmdir(1) line 13/52 90% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m--ignore-fail-on-non-empty[0m[m
+[37;1H[K[7m Manual page rmdir(1) line 12/52 86% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page rmdir(1) line 11/52 86% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Remove the DIRECTORY(ies), if they are empty.[m
+[37;1H[K[7m Manual page rmdir(1) line 10/52 85% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mDESCRIPTION[0m[m
+[37;1H[K[7m Manual page rmdir(1) line 9/52 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page rmdir(1) line 8/52 84% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mrmdir [22m[[4mOPTION[24m]... [4mDIRECTORY[24m...[m
+[37;1H[K[7m Manual page rmdir(1) line 7/52 80% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mSYNOPSIS[0m[m
+[37;1H[K[7m Manual page rmdir(1) line 6/52 75% (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[37;1H[K[7m Manual page rmdir(1) line 5/52 71% (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]777;notify;Command completed;man rmdir]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+ Kukoo.txt    [0m[38;5;33mScriptingGames[0m                  [38;5;33m'ScriptingGames?parulkar'[0m
+ Mandir.txt  [38;5;33m'ScriptingGames?GaneshGaitonde'[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cd ScriptingGames?\?[K[K?parulkar
+]777;notify;Command completed;cd ScriptingGames?parulkar]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames?parulkar]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames%3Fparulkar[user@CR17061 ScriptingGames?parulkar]$ ls
+[0m[38;5;33mZoya[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames?parulkar]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames%3Fparulkar[user@CR17061 ScriptingGames?parulkar]$ cd [K[K[Krmdir Zoya/
+]777;notify;Command completed;rmdir Zoya/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames?parulkar]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames%3Fparulkar[user@CR17061 ScriptingGames?parulkar]$ cd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+ Kukoo.txt    [0m[38;5;33mScriptingGames[0m                  [38;5;33m'ScriptingGames?parulkar'[0m
+ Mandir.txt  [38;5;33m'ScriptingGames?GaneshGaitonde'[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ rmdir ScriptingGames?parulkar
+]777;notify;Command completed;rmdir ScriptingGames?parulkar]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cd ScriptingGames?GaneshGaitonde
+]777;notify;Command completed;cd ScriptingGames?GaneshGaitonde]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames?GaneshGaitonde]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames%3FGaneshGaitonde[user@CR17061 ScriptingGames?GaneshGaitonde]$ ls
+[0m[38;5;33mCuckoo[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames?GaneshGaitonde]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames%3FGaneshGaitonde[user@CR17061 ScriptingGames?GaneshGaitonde]$ rmdir Cuckoo
+]777;notify;Command completed;rmdir Cuckoo]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames?GaneshGaitonde]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames%3FGaneshGaitonde[user@CR17061 ScriptingGames?GaneshGaitonde]$ cd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ emdir ScriptingGames?G\?GaneshGaitonde/[K[C[1P?GaneshGaitonde[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1@r[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+]777;notify;Command completed;rmdir ScriptingGames?GaneshGaitonde]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+Kukoo.txt  Mandir.txt  [0m[38;5;33mScriptingGames[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cd ScriptingGames/
+]777;notify;Command completed;cd ScriptingGames/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ ls
+ [0m[38;5;33mGaneshGaitonde[0m   [38;5;33mparulkar[0m   [38;5;33mSartaj[0m  [38;5;33m'Sartaj?megha'[0m   [38;5;33mTrivedi[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ rmdir Sartaj?megha
+]777;notify;Command completed;rmdir Sartaj?megha]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ ls
+[0m[38;5;33mGaneshGaitonde[0m  [38;5;33mparulkar[0m  [38;5;33mSartaj[0m  [38;5;33mTrivedi[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ cd G[K[K[K[Kls ./GaneshGaitonde/
+[0m[38;5;33mCuckoo[0m
+]777;notify;Command completed;ls ./GaneshGaitonde/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ ls ./Sartaj/
+[0m[38;5;33mmegha[0m
+]777;notify;Command completed;ls ./Sartaj/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ [H[2J[user@CR17061 ScriptingGames]$ ls ./Saa[Krtaj/
+[0m[38;5;33mmegha[0m
+]777;notify;Command completed;ls ./Sartaj/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ mv meh[Kgha Megha
+mv: cannot stat 'megha': No such file or directory
+]777;notify;Command completed;mv megha Megha]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ cp ..[K[K[K[K[Kman cp
+[?1049h[22;0;0t[?1h=CP(1)                         User Commands                        CP(1)[m
+[m
+[1mNAME[0m[m
+       cp - copy files and directories[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mcp [22m[[4mOPTION[24m]... [[4m-T[24m] [4mSOURCE[24m [4mDEST[0m[m
+       [1mcp [22m[[4mOPTION[24m]... [4mSOURCE[24m... [4mDIRECTORY[0m[m
+       [1mcp [22m[[4mOPTION[24m]... [4m-t[24m [4mDIRECTORY[24m [4mSOURCE[24m...[m
+[m
+[1mDESCRIPTION[0m[m
+       Copy SOURCE to DEST, or multiple SOURCE(s) to DIRECTORY.[m
+[m
+       Mandatory  arguments  to  long  options  are  mandatory for short[m
+       options too.[m
+[m
+       [1m-a[22m, [1m--archive[0m[m
+              same as [1m-dR --preserve[22m=[4mall[0m[m
+[m
+       [1m--attributes-only[0m[m
+              don't copy the file data, just the attributes[m
+[m
+       [1m--backup[22m[=[4mCONTROL[24m][m
+              make a backup of each existing destination file[m
+[m
+       [1m-b     [22mlike [1m--backup [22mbut does not accept an argument[m
+[m
+       [1m--copy-contents[0m[m
+              copy contents of special files when recursive[m
+[m
+       [1m-d     [22msame as [1m--no-dereference --preserve[22m=[4mlinks[0m[m
+[m
+       [1m-f[22m, [1m--force[0m[m
+              if an existing destination file cannot be  opened,  remove[m
+              it  and  try  again  (this  option  is ignored when the [1m-n[0m[m
+              option is also used)[m
+[7m Manual page cp(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t]777;notify;Command completed;man cp]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting/ScriptingGames[user@CR17061 ScriptingGames]$ cp [K[K[Kcd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ ls
+[0m[38;5;40mfile2.txt[0m  file3.txt  [38;5;40mfile.txt[0m  [38;5;33mSetting[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ cd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ ls
+2018201057_lab1.script  answers.txt  [0m[38;5;33mBhagwan[0m  Gaitonde.txt  [38;5;33mKachra[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cd Bhagwan/
+]777;notify;Command completed;cd Bhagwan/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ ls
+[0m[38;5;40mfile2.txt[0m  file3.txt  [38;5;40mfile.txt[0m  [38;5;33mSetting[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ cd Setting/
+]777;notify;Command completed;cd Setting/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+Kukoo.txt  Mandir.txt  [0m[38;5;33mScriptingGames[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cp Mandir.txt ./ScriptingGames/Trivedi/[K
+]777;notify;Command completed;cp Mandir.txt ./ScriptingGames/Trivedi]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cp Mandir.txt ./ScriptingGames/Trivedi[K[K[K[K[K[K[KGaneshGaitonde/c[KCuckooo/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt ./ScriptingGames/GaneshGaitonde/Cuckoo[1P/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt ./ScriptingGames/GaneshGaitonde/Cuckoo/[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt ./ScriptingGames/GaneshGaitonde/Cuckoo/ [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1@K[1@uk.txt ./ScriptingGames/GaneshGaitonde/Cuckoo/ [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Coo.txt.txt ./ScriptingGames/GaneshGaitonde/Cuuckoo/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt ./ScriptingGames/GaneshGaitonde/Cuc[1Pkoo/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt ./ScriptingGames/GaneshGaitonde/Cuck[1Poo/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.txt ./ScriptingGames/GaneshGaitonde/Cucko[C[1P/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ctxt ./ScriptingGames/GaneshGaitonde/Cuckoo[1P/[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+]777;notify;Command completed;cp Kukoo.txt ./ScriptingGames/GaneshGaitonde/Cuckoo/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ^C
+]777;notify;Command completed;cp Kukoo.txt ./ScriptingGames/GaneshGaitonde/Cuckoo/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cp ./ScriptingGames/ ./Copypg[K[KofScriptingGames
+cp: -r not specified; omitting directory './ScriptingGames/'
+]777;notify;Command completed;cp ./ScriptingGames/ ./CopyofScriptingGames]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cp ./ScriptingGames/ ./CopyofScriptingGames[1@-[1@R[1@ 
+]777;notify;Command completed;cp -R ./ScriptingGames/ ./CopyofScriptingGames]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+[0m[38;5;33mCopyofScriptingGames[0m  Kukoo.txt  Mandir.txt  [38;5;33mScriptingGames[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls ./CopyofScriptingGames/
+[0m[38;5;33mGaneshGaitonde[0m  [38;5;33mparulkar[0m  [38;5;33mSartaj[0m  [38;5;33mTrivedi[0m
+]777;notify;Command completed;ls ./CopyofScriptingGames/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ;s[K[Kls
+[0m[38;5;33mCopyofScriptingGames[0m  Kukoo.txt  Mandir.txt  [38;5;33mScriptingGames[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ^C
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ mv ./ScriptingGames/GaneshGaitonde/[K ./ScriptingGamess/Trivedi/[K
+]777;notify;Command completed;mv ./ScriptingGames/GaneshGaitonde ./ScriptingGames/Trivedi]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.aksu[K[K[K[Kkaushik@web.iiit.ac.in
+The authenticity of host 'web.iiit.ac.in (10.4.21.70)' can't be established.
+ECDSA key fingerprint is SHA256:9Xntfryzm8Ch2vWnToEwMxiG9s3n93TwQZSA6R7GDjQ.
+ECDSA key fingerprint is MD5:9f:dd:a6:f2:c4:06:6e:ae:b3:50:82:2f:7c:13:96:a2.
+Are you sure you want to continue connecting (yes/no)? y
+Please type 'yes' or 'no': yes
+Warning: Permanently added 'web.iiit.ac.in,10.4.21.70' (ECDSA) to the list of known hosts.
+hitesh.kaushik@web.iiit.ac.in's password: 
+Creating directory '/pg/mtech/mtech2k18/cse/hitesh.kaushik'.
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ packet_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ t[Kssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 18:51:01 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ touvh[K[Kch COn[K[Konfidential.txt
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ packet_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 18:52:05 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ touch Confifetn[K[K[K[Kdential.txt
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ packet_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 18:53:44 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ touch Confidential.txt
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ ls
+Confidential.txt  [0m[38;5;27mpublic_html[0m
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ pwd | Cpacket_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 18:55:06 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ touch Confidential.tct[K[Kxt
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ pwd | tee Confidential.txc[Kt
+/pg/mtech/mtech2k18/cse/hitesh.kaushik
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ packet_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.kaushik@web.iiit.ac.in
+Raa   ^[[A^C
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 18:58:17 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ ls
+Confidential.txt  [0m[38;5;27mpublic_html[0m
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ cp Confidential.txt [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kget Confidential.txt ./
+-bash: get: command not found
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ packet_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ sc[K[Kssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 19:01:37 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ scp[K[K[Kls
+Confidential.txt  [0m[38;5;27mpublic_html[0m
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ scp -4 Confidential.txt dffytdf[K[K[K[K[K[K[Kpacket_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ^C
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 19:06:30 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ scp -3[K4 Confidential.txt ./
+cp: ‘Confidential.txt’ and ‘./Confidential.txt’ are the same file
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ scp -4 Confidential.txt ./[K[Kuser@10.3.5.255
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ logout
+Connection to web.iiit.ac.in closed.
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+[0m[38;5;33mCopyofScriptingGames[0m  Kukoo.txt  Mandir.txt  [38;5;33mScriptingGames[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls ~
+[0m[38;5;33mDesktop[0m  [38;5;33mDocuments[0m  [38;5;33mDownloads[0m  [38;5;33mMusic[0m  [38;5;33mPictures[0m  [38;5;33mPublic[0m  [38;5;33mTemplates[0m  [38;5;33mVideos[0m
+]777;notify;Command completed;ls ~]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+[0m[38;5;33mCopyofScriptingGames[0m  Kukoo.txt  Mandir.txt  [38;5;33mScriptingGames[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls ~[Kssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 19:08:05 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ ls
+Confidential.txt  [0m[38;5;27mpublic_html[0m  user@10.3.5.255
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ rmdirpacket_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.kaushik@web.iiit.ac.in[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 19:09:21 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ ls
+Confidential.txt  [0m[38;5;27mpublic_html[0m  user@10.3.5.255
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ rm user@10.3.5.255 
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ ls
+Confidential.txt  [0m[38;5;27mpublic_html[0m
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ scp -4 Conff[Kidential.txt ./[K[K..[K[K./Sre[K[Kett[K[K[K[K[K[K[K[Kpacket_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ssh hitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last login: Mon Aug 13 19:10:35 2018 from 10.3.5.162
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ packet_write_wait: Connection to 10.4.21.70 port 22: Broken pipe
+]777;notify;Command completed;ssh hitesh.kaushik@web.iiit.ac.in]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+[0m[38;5;33mCopyofScriptingGames[0m  Kukoo.txt  Mandir.txt  [38;5;33mScriptingGames[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ rmdir C[K[K[K[K[K -r CopyofScriptingGames/
+]777;notify;Command completed;rm -r CopyofScriptingGames/]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ ls
+Kukoo.txt  Mandir.txt  [0m[38;5;33mScriptingGames[0m
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan/Setting]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan/Setting[user@CR17061 Setting]$ cd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1/Bhagwan]7;file://CR17061/home/user/Desktop/2018201057_lab1/Bhagwan[user@CR17061 Bhagwan]$ cd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop/2018201057_lab1]7;file://CR17061/home/user/Desktop/2018201057_lab1[user@CR17061 2018201057_lab1]$ cd ..
+]777;notify;Command completed;cd ..]0;user@CR17061:~/Desktop]7;file://CR17061/home/user/Desktop[user@CR17061 Desktop]$ ls
+ [0m[38;5;33m2018201057_lab1[0m   Commands  'Yum update packages'
+]777;notify;Command completed;ls]0;user@CR17061:~/Desktop]7;file://CR17061/home/user/Desktop[user@CR17061 Desktop]$ gc[K[Kgzip[K[K[K[Ktar -czvf .tar.gz ./dirm[Kname[C[C[C[C[C[C[C[C[C[C[1@2[1@0[1@1[1@8[1@2[1@0[1@1[1@0[1@5[1@7[1@_[1@l[1@a[1@b[1@1[1@0[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K2018201057_lab1 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K1
+./2018201057_lab1/
+./2018201057_lab1/2018201057_lab1.script
+./2018201057_lab1/Gaitonde.txt
+./2018201057_lab1/answers.txt
+./2018201057_lab1/Bhagwan/
+./2018201057_lab1/Bhagwan/file3.txt
+tar: ./2018201057_lab1/Bhagwan/file2.txt: Cannot open: Permission denied
+./2018201057_lab1/Bhagwan/file.txt
+./2018201057_lab1/Bhagwan/Setting/
+./2018201057_lab1/Bhagwan/Setting/.Anjali_Mathur.txt
+./2018201057_lab1/Bhagwan/Setting/Kukoo.txt
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/Trivedi/
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/Trivedi/GaneshGaitonde/
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/Trivedi/GaneshGaitonde/Cuckoo/
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/Trivedi/GaneshGaitonde/Cuckoo/Kukoo.txt
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/Trivedi/Mandir.txt
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/Sartaj/
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/Sartaj/megha/
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/parulkar/
+./2018201057_lab1/Bhagwan/Setting/ScriptingGames/parulkar/Zoya/
+./2018201057_lab1/Bhagwan/Setting/Mandir.txt
+./2018201057_lab1/Kachra/
+tar: Exiting with failure status due to previous errors
+]777;notify;Command completed;tar -czvf 2018201057_lab1.tar.gz ./2018201057_lab1]0;user@CR17061:~/Desktop]7;file://CR17061/home/user/Desktop[user@CR17061 Desktop]$ tar -czvf 2018201057_lab1.tar.gz ./2018201057_lab1 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CScript started on Monday 13 August 2018 10:04:57 PM IST
+]0;kaushik@hitesh: ~/Desktopkaushik@hitesh:~/Desktop$ ssh ht[Kitesh.kaushik@web.iiit.ac.in
+hitesh.kaushik@web.iiit.ac.in's password: 
+Last failed login: Mon Aug 13 21:55:59 IST 2018 from 10.1.38.232 on ssh:notty
+There was 1 failed login attempt since the last successful login.
+Last login: Mon Aug 13 21:52:37 2018 from 10.1.38.232
+/usr/bin/id: cannot find name for group ID 2018201
+]0;hitesh.kaushik@web:~[?1034h[hitesh.kaushik@web ~]$ pwd
+/pg/mtech/mtech2k18/cse/hitesh.kaushik
+]0;hitesh.kaushik@web:~[hitesh.kaushik@web ~]$ ;[Klogout
+Connection to web.iiit.ac.in closed.
+]0;kaushik@hitesh: ~/Desktopkaushik@hitesh:~/Desktop$ scp hitesh.kais[K[Kushik@web.iiit.ac.in:/pg/mtech/mtech2k18/ cse/hitesh.kaushik/Confidential.txt /hom[K[K[K[K~/Des/home/kaushik/Desktop/la[K[K2018201057_lab1/Bhagwann/Setting/
+hitesh.kaushik@web.iiit.ac.in's password: 
+/usr/bin/id: cannot find name for group ID 2018201
+Confidential.txt                                0%    0     0.0KB/s   --:-- ETAConfidential.txt                              100%   39     0.0KB/s   00:00    
+]0;kaushik@hitesh: ~/Desktopkaushik@hitesh:~/Desktop$ ls
+2018201057_1~  2018201057_3~  [0m[01;34m2018201057_lab1[0m
+2018201057_2~  2018201057_4~  wifi-linux-setup~
+]0;kaushik@hitesh: ~/Desktopkaushik@hitesh:~/Desktop$ ls ./2018201057_lab1/Bhagwan/Setting/
+Confidential.txt  Kukoo.txt  Mandir.txt  [0m[01;34mScriptingGames[0m
+]0;kaushik@hitesh: ~/Desktopkaushik@hitesh:~/Desktop$ cat [K[K[K[Ktrexi[K[K[K[K[Kexit
+exit
+
+Script done on Monday 13 August 2018 10:18:16 PM IST

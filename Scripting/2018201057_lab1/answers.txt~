@@ -1,0 +1,86 @@
+1. cd 2018201057_lab1
+   mkdir Kachra
+
+2. pwd
+   echo $HOME
+
+3. touch Gaitonde.txt 
+   cat >Gaitonde.txt
+   Create by Vikram
+   <ctrl+d>
+
+4. mkdir Bhagwan
+   cd Bhagwan
+   ls
+   touch file.txt file2.txt file3.txt
+   ls
+
+5. ls -l
+   chmod 777 file.txt
+   //all permissions granted to users,groups and others
+
+   chmod 111 file2.txt
+   //all permissions denied to users,groups and others
+
+   more file2.txt 
+   //permission denied
+   
+   sh file3.txt
+   //execute file3 in shell 
+   
+   sh file2.txt
+   //permission denied
+
+6. mkdir Setting
+   cd Setting
+   touch Kukoo.txt Mandir.txt
+
+7. cat >Kukoo.txt
+   Apun kukoo ke peechhe bhag raha ta
+   <ctrl+d>
+   cat >Mandir.txt
+   Desh mandir ke peechhe bhag raha ta
+   <ctrl+d>
+
+8. cat >>Kukoo.txt
+   By Ganesh Gaitonde
+
+9. cat Kukoo.txt Mandir.txt
+
+11. touch .Anjali_Mathur.txt
+    cat >>.Anjali_Mathur.txt
+    Agar mard field pe kaam karna chahe toh passion. Aur agar aurat karna chahe toh
+    bhoot.
+    <ctrl+d>
+    chmod 444 .Anjali_mathur.txt
+
+12. cat Mandir.txt
+    Apun socha jab desh mein PM ka imaan nahi, toh apun seedhe raaste chal ke kya Karega?
+    <ctrl+d>
+
+13. mkdir -p ./ScriptingGames/Parulkar/Zoya ./ScriptingGames/Trivedi ./ScriptingGames/Sartaj/Megha ./ScriptingGames/GaneshGaitonde/Cuckoo
+
+14. cp Mandir.txt ./ScriptingGames/Trivedi
+    cp Kukoo.txt ./ScriptingGames/GaneshGaitonde/Cuckoo/
+
+15. cp -R ./ScriptingGames/ ./CopyofScriptingGames
+
+16. mv ./ScriptingGames/GaneshGaitonde ./ScriptingGames/Trivedi
+
+17. ssh hitesh.kaushik@web.iiit.ac.in
+    <password>
+
+18. touch Confidential.txt
+    pwd | tee Confidential.txt 
+
+19. scp hitesh.kaushik@web.iiit.ac.in:/pg/mtech/mtech2k18/cse/hitesh.kaushik/Confidential.txt .
+    <password prompt> 
+
+22. tr [a-z] [A-Z] <Confidential.txt | cat > Confidential1.txt 
+
+21. rm -r CopyofScriptingGames
+
+22. tar -czvf 2018201057_lab1.tar.gz ./2018201057_lab1
+   
+  
+   
