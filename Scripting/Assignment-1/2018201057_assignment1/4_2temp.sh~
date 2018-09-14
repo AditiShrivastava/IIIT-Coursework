@@ -1,0 +1,33 @@
+#!/bin/bash
+flag=0 
+temp=$1
+        
+        if [ `echo $temp | grep -c -E "[0-9]+"` -eq 0 ]
+        then 
+            let flag=1
+
+        elif [ ${#temp} -lt 8 ]
+        then  
+            let flag=1
+        
+        else
+        for((i=4;i<=${#temp};i++))
+        do
+          for((j=0;j<=${#temp}-$i;j++))
+          do
+            if [ `grep -c -E "^${temp:$j:$i}$" dictionary.txt` -gt 0 ]
+            then
+                let flag=1
+         else
+                let flag=0
+        fi
+          done
+        done
+      fi
+
+    if [ $flag -eq 1 ]
+    then
+        echo "weak password"
+    else
+        echo "strong password"
+    fi
