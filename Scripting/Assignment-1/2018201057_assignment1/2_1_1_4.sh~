@@ -1,3 +1,0 @@
-#!/bin/bash
-# 2 or more consecutive a, escaping d
-sed -nE '/.*a{2,}.*/Ip' /usr/share//dict/words
